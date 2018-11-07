@@ -230,3 +230,20 @@ Temporary Items
 # --------
 # Project-level settings
 /.tgitconfig
+replugin-host-library/gradlew
+replugin-host-library/gradlew
+replugin-host-library/gradlew
+replugin-host-library/gradlew.bat
+replugin-sample/plugin/plugin-webview/gradlew.bat
+replugin-sample/plugin/plugin-webview/gradlew
+replugin-sample/plugin/plugin-demo2/gradlew.bat
+replugin-sample/plugin/plugin-demo2/gradlew
+replugin-sample/plugin/plugin-demo1/gradlew.bat
+replugin-sample/plugin/plugin-demo1/gradlew
+replugin-sample/host/gradlew.bat
+replugin-sample/host/gradlew
+replugin-plugin-library/gradlew.bat
+replugin-plugin-library/gradlew
+replugin-host-library/gradlew.bat
+replugin-host-library/gradlew
+gradle
