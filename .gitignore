@@ -247,3 +247,6 @@ replugin-plugin-library/gradlew
 replugin-host-library/gradlew.bat
 replugin-host-library/gradlew
 gradle
+.gradle
+.idea
+build
